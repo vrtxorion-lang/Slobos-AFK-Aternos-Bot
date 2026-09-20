@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PlayersMC-9V7f.aternos.me",
-    "port": 26622,
+    "ip": "LabourCraft.aternos.me",
+    "port": 44434,
     "version": "",
     "try-creative": false
   },
